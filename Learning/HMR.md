@@ -1,0 +1,1 @@
+Hot Module Replacement or HMR allows us to add more components to our webpage while it is live without restarting the app and losing the state.
